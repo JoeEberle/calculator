@@ -1,12 +1,12 @@
 
-# Calculator - Build a simple calulator using python and tkinter to enhance your programming skills 
-Build a simple calulator using python and tkinter to enhance your programming skills 
+# Calculator - Build a simple calculator using python and tkinter to enhance your programming skills 
+Build a simple calculator using python and tkinter to enhance your programming skills 
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Calculator** - an example for your projects
 
-Build a simple calulator using python and tkinter to enhance your programming skills 
+Build a simple calculator using python and tkinter to enhance your programming skills 
 
 ![Image image_filename](sample.png)
 
@@ -38,4 +38,4 @@ To get started with the **Calculator** solution repository, follow these steps:
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](calculator.png)  <br>
+    ## Deliverables or Figures![additional_image](calculator.png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
