@@ -10,7 +10,7 @@ Build a simple calculator using python and tkinter to enhance your programming s
 
 ![Image image_filename](sample.png)
 
-![Image image_filename]("solution_sign.png")
+![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
