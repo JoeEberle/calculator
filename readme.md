@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Calculator - Build a simple calculator using python and tkinter to enhance your programming skills 
 Build a simple calculator using python and tkinter to enhance your programming skills 
 
@@ -9,8 +11,6 @@ Welcome to the solution **Calculator** - an example for your projects
 Build a simple calculator using python and tkinter to enhance your programming skills 
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
