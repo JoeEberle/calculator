@@ -48,5 +48,5 @@ To get started with the **Calculator** solution repository, follow these steps:
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](calculator.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+ ![additional_image](calculator.png)  <br>
     
